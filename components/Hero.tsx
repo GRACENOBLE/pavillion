@@ -3,7 +3,7 @@ import Container from './Container'
 
 const Hero = () => {
   return (
-    <section>
+    <section className='border'>
         <Container>
             Hero
         </Container>
